@@ -5,6 +5,11 @@
         string hello;
         string world;
         string lll;
-        public Person() { }
+        public Person(int hello, int world, int lll)
+        {
+            this.hello = hello;
+            this.world = world;
+            this.lll = lll;
+        }
     }
 }
