@@ -5,7 +5,7 @@
         string hello;
         string world;
         string lll;
-        public Person(int hello, int world, int lll)
+        public Person(string hello, string world, string lll)
         {
             this.hello = hello;
             this.world = world;
