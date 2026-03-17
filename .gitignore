@@ -5,3 +5,7 @@
 *.vsidx
 /ASPNET_FIRST/obj/Debug/net10.0/ASPNET_FIRST.AssemblyInfo.cs
 /ASPNET_FIRST/obj/Debug/net10.0/ASPNET_FIRST.AssemblyInfoInputs.cache
+/.vs/ASPNET_FIRST.slnx/FileContentIndex
+/ASPNET_FIRST/obj/Debug/net10.0/ASPNET_FIRST.assets.cache
+/ASPNET_FIRST/obj/Debug/net10.0/ASPNET_FIRST.GeneratedMSBuildEditorConfig.editorconfig
+/ASPNET_FIRST/obj/Debug/net10.0/rpswa.dswa.cache.json

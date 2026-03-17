@@ -2,14 +2,14 @@
 {
     public class Person
     {
-        string hello;
-        string world;
-        string lll;
-        public Person(string hello, string world, string lll)
+        public Person(double hello, decimal world, string lll)
         {
             this.hello = hello;
             this.world = world;
             this.lll = lll;
         }
+        public double hello { get; set; }
+        public decimal world { get; set; }
+        public string lll { get; set; }
     }
 }
