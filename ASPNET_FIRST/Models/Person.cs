@@ -5,6 +5,7 @@
         string hello;
         string world;
         string lll;
+        int salary;
         public Person(string hello, string world, string lll)
         {
             this.hello = hello;
