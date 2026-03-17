@@ -1,0 +1,7 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+*.vsidx
+/ASPNET_FIRST/obj/Debug/net10.0/ASPNET_FIRST.AssemblyInfo.cs
+/ASPNET_FIRST/obj/Debug/net10.0/ASPNET_FIRST.AssemblyInfoInputs.cache
